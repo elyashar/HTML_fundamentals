@@ -111,12 +111,12 @@ article p:first-child {
 
 /* Styling links */
 a:link {
-  /* color: #1098ad; dont work!!!!!!! Why???????*/
+  color: #1098ad;
   text-decoration: none;
 }
 
 a:visited {
-  /* color: #777; */
+  /* color: rgb(155, 152, 147); */
   color: #1098ad;
 }
 

@@ -18,6 +18,7 @@ body {
   padding-right: 40px; */
   padding: 20px 40px;
   margin-bottom: 60px;
+  height: 80px;
 }
 
 nav {
@@ -39,6 +40,7 @@ aside {
   /* padding-top: 50px;
   padding-bottom: 50px; */
   padding: 50px 0;
+  width: 500px;
 }
 
 h1,
@@ -166,6 +168,11 @@ a:active {
   font-style: italic;
 }
 /* LVHA */
+
+.post-img {
+  width: 100%;
+  height: auto;
+}
 
 /* Resolving conflicts */
 /* #copyright {
